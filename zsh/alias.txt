@@ -1,0 +1,31 @@
+# alias setting
+# > linux alias
+alias rm='rm -i'
+alias c='clear'
+alias s='source'
+alias zip='zip -r' # not only directory also including file
+# > general alias
+alias cat='bat'
+alias dk='docker'
+alias le='eza -l --git --icons'
+alias gr='./gradlew'
+alias nr='npm run'
+alias y='yazi'
+alias gu='gitui'
+alias ld='lazydocker'
+# > git alias
+alias g='git'
+alias ga.='git add .'
+alias gco='git commit'
+alias gst='git status'
+alias gps='git push'
+alias gpsu='git push -u origin HEAD'
+alias gpl='git pull'
+alias gb='git branch'
+alias gbd='git branch -d'
+alias gs='git switch'
+alias gsc='git switch -c'
+alias gch='git checkout'
+alias gchb='git checkout -b'
+alias glol='git log --oneline'
+alias gd='git diff'
