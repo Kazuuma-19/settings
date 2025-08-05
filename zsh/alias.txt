@@ -15,6 +15,7 @@ alias gu='gitui'
 alias ld='lazydocker'
 # > git alias
 alias g='git'
+alias ga='git add'
 alias ga.='git add .'
 alias gco='git commit'
 alias gst='git status'
