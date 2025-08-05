@@ -1,0 +1,14 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\nunmap t",
+  "settingsVersion": "2.3",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://mail.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https://www.youtube.com/*"
+    }
+  ]
+}
