@@ -1,5 +1,6 @@
 {
   "keyMappings": "# Insert your preferred key mappings here.\nunmap t",
+  "scrollStepSize": 100,
   "settingsVersion": "2.3",
   "exclusionRules": [
     {
@@ -9,6 +10,10 @@
     {
       "passKeys": "",
       "pattern": "https://www.youtube.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https://sushida.net/*"
     }
   ]
 }
