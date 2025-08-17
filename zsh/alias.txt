@@ -5,7 +5,6 @@ alias c='clear'
 alias s='source'
 alias zip='zip -r' # not only directory also including file
 # > general alias
-alias cat='bat'
 alias dk='docker'
 alias le='eza -l --git --icons'
 alias gr='./gradlew'
@@ -13,6 +12,8 @@ alias nr='npm run'
 alias y='yazi'
 alias gu='gitui'
 alias ld='lazydocker'
+alias vzsh='vim ~/.zshrc'
+alias szsh='source ~/.zshrc'
 # > git alias
 alias g='git'
 alias ga='git add'
