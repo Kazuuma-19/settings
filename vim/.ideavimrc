@@ -2,4 +2,5 @@ inoremap <silent> jj <ESC>
 noremap <S-h>   ^
 noremap <S-l>   $
 
-set clipboard=unnamedplus
+nnoremap y "+y
+vnoremap y "+y
